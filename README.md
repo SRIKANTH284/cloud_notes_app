@@ -24,7 +24,7 @@ To run the project locally:
 
 1. **Download or Clone the Repository**
    ```bash
-   git clone https://github.com/username/cloud-notes-app.git
+   https://github.com/SRIKANTH284/cloud_notes_app.git
    ```
    
 2. **Open the Project Folder**
